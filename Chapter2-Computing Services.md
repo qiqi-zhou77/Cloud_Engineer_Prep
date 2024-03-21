@@ -121,13 +121,18 @@ Service to run stateless containers (Stateless containers refer to containerized
 - Users: processing similar set sof permissions
 - see next chapter
 
-
 ### Development tool
 
+Cloud SDK: Command line tool
+Contianer Registry, Cloud Build, Cloud Source Repositorires
+InteelliJ, Powershell etc
 
 ## Other Components of Google Cloud
 
 **Management and observabulity tools**
 
+- Cloud Monitring, CLoud logging, Error Reporting, CLoud trace, Cloud Debugger, Cloud Profiler
+
 **Specialized services**
 
+-Apigee API Platform, Dara Analytics, Data Pipeline, AI and Machine Learning 
