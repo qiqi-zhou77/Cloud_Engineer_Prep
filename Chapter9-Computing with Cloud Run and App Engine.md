@@ -51,3 +51,8 @@
 - When instances are scaled based on load,they are called dynamic instances
 
 # Spliting Traffic between app engine versions
+- Splitting the traffice between diff versions of an applcation that is running
+- by IP address, HTTP cookie, random selection
+- IP address splitting procide some stickiness, a client is always routed to the same split as long as the IP address does not change
+- HTTP cookies are useful when zou want to assign users to versions
+- Random selection is useful when you want to evenly distributed workload
